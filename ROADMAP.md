@@ -8,4 +8,14 @@ The current way of listing an individuals experience is insuccicient to capture 
 
 # How to get involved
 What feedback do you have for this project?
-What platform would be best for this 
+What platform would be best for this project?
+What audience would find this most useful?
+If you used this, what media would you like to associate with a resume?
+How would one organize a daabase of 
+
+# Timeline
+##Early May
+  Determine language to code in
+  List starting features of program
+## Late May
+  
