@@ -11,7 +11,7 @@ What feedback do you have for this project?
 What platform would be best for this project?
 What audience would find this most useful?
 If you used this, what media would you like to associate with a resume?
-How would one organize a daabase of 
+How would one organize a daabase of media, dates, text
 
 # Timeline
 ##Early May
